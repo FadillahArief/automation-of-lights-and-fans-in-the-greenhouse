@@ -6,6 +6,7 @@
 #define dhtPin D3
 #define DHTTYPE DHT11
 
+#init relaypin
 const int IN1 = D5;
 const int IN2 = D6;
 
